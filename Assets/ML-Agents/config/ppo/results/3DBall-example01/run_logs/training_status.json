@@ -1,0 +1,29 @@
+{
+    "3DBall": {
+        "checkpoints": [
+            {
+                "steps": 334638,
+                "file_path": "results\\3DBall-example01\\3DBall\\3DBall-334638.onnx",
+                "reward": 85.2125129699707,
+                "creation_time": 1741625315.802426,
+                "auxillary_file_paths": [
+                    "results\\3DBall-example01\\3DBall\\3DBall-334638.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 334638,
+            "file_path": "results\\3DBall-example01\\3DBall.onnx",
+            "reward": 85.2125129699707,
+            "creation_time": 1741625315.802426,
+            "auxillary_file_paths": [
+                "results\\3DBall-example01\\3DBall\\3DBall-334638.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
